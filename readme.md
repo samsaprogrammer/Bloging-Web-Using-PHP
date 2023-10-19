@@ -37,7 +37,7 @@ I enjoy making software so much! Please, if you see any issues make them known!
 - Create users table in phpMyAdmin.
 - Change the username and password in connection.php file.
 - Create four columns id, name, email, password in the users table.
-- Or import the [login_system.sql](loginsystem.sql) file in the phpMyAdmin.
+- Or import the [bangSpot.sql](bangSpot.sql) file in the phpMyAdmin.
 - Save the files, upload them to your webserver and give it a try.
 
 ## Preview
