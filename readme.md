@@ -59,5 +59,5 @@ I enjoy making software so much! Please, if you see any issues make them known!
 
 ## License
 
-This software is under an MIT License. Which allows full use to edit, distribute, or sell this code.
+This software is under an Samsa License. Which allows full use to edit, distribute, or sell this code.
 See the "LICENSE" file for more information!
